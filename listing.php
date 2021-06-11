@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<ul>
+			<li>Computer
+					<ul>
+						<li>HP</li>
+						<li>DEL</li>
+					</ul>
+			</li>
+			<li>PRINTER
+				<ul>
+					<li>HP</li>
+					<li>DEL</li>
+				</ul>
+			</li>
+		</ul>
+	</body>
+</html>
